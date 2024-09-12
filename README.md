@@ -1,5 +1,4 @@
-#Redbus Data Scraping and Filtering with Streamlit Application
-
+Redbus Data Scraping and Filtering with Streamlit Application
 
 Introduction
 
