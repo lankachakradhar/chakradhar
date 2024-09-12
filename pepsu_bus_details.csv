@@ -1,0 +1,41 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala,PEPSU (Punjab) - 66667,Volvo AC Seater (2+2),17:30,05h 00m,22:30,4.4,INR 711,31 Seats available
+Delhi to Patiala,https://www.redbus.in/bus-tickets/delhi-to-patiala,PEPSU (Punjab) - 67103,AC Seater Hvac 2+2,22:30,05h 30m,04:00,3.3,INR 454,27 Seats available
+Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 66687,Volvo AC Seater (2+2),18:10,05h 25m,23:35,3.2,INR 711,34 Seats available
+Patiala to Delhi,https://www.redbus.in/bus-tickets/patiala-to-delhi,PEPSU (Punjab) - 67104,AC Seater Hvac 2+2,22:30,05h 01m,03:31,3.1,INR 454,38 Seats available
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:30,05h 54m,05:24,4.7,INR 460,14 Seats available
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,06h 40m,05:00,4.6,475,16 Seats available
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:40,07h 00m,06:40,4.5,637,14 Seats available
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,,,,,,,,
+Delhi to Ludhiana,https://www.redbus.in/bus-tickets/delhi-to-ludhiana,,,,,,,,
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Yolo Bus,VE A/C Seater / Sleeper (2+1),22:27,06h 33m,05:00,4.6,INR 450,24 Seats available
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Zingbus Plus,A/C Seater / Sleeper (2+1),23:50,06h 45m,06:35,4.7,513,27 Seats available
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,Laxmi holidays,VE A/C Sleeper (2+1),23:55,06h 50m,06:45,4.4,570,33 Seats available
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,07h 15m,06:00,4.7,INR 650,29 Seats available
+Ludhiana to Delhi,https://www.redbus.in/bus-tickets/ludhiana-to-delhi,,,,,,,,
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:10,07h 15m,06:25,4.7,INR 600,31 Seats available
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,Zingbus Plus,Scania Multi-Axle AC Semi Sleeper (2+2),22:55,08h 20m,07:15,4.6,442,30 Seats available
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),22:30,07h 10m,05:40,4.6,INR 600,35 Seats available
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),21:30,08h 15m,05:45,4.4,INR 550,20 Seats available
+Jalandhar to Delhi,https://www.redbus.in/bus-tickets/jalandhar-to-delhi,,,,,,,,
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Yolo Bus,VE A/C Seater / Sleeper (2+1),23:30,06h 59m,06:29,4.7,INR 460,14 Seats available
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),21:30,08h 20m,05:50,4.7,INR 607,16 Seats available
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:20,07h 20m,05:40,4.5,475,16 Seats available
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,AdNew Navyug Travels,,,,,,,
+Delhi to Jalandhar,https://www.redbus.in/bus-tickets/delhi-to-jalandhar,,,,,,,,
+Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),16:30,09h 00m,01:30,4.6,INR 3300,51 Seats available
+Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),17:00,09h 00m,02:00,4.6,INR 2500,51 Seats available
+Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),17:30,06h 00m,23:30,4.6,INR 2500,51 Seats available
+Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),19:30,09h 00m,04:30,4.6,INR 2500,51 Seats available
+Delhi Airport to Patiala,https://www.redbus.in/bus-tickets/delhi-airport-to-patiala,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),20:30,06h 00m,02:30,4.6,INR 2500,51 Seats available
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),15:29,07h 31m,23:00,4.6,INR 3000,42 Seats available
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),17:29,07h 01m,00:30,4.6,INR 3300,36 Seats available
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,Volvo A/C Sleeper (2+1),21:29,07h 01m,04:30,4.6,INR 3850,26 Seats available
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),19:29,07h 01m,02:30,4.6,INR 3300,42 Seats available
+Ludhiana to Delhi Airport,https://www.redbus.in/bus-tickets/ludhiana-to-delhi-airport,,,,,,,,
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,A/C Sleeper (2+1),20:00,08h 25m,04:25,4.3,1396,17 Seats available
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Semi Sleeper (2+2),23:30,08h 15m,07:45,4.6,INR 3300,50 Seats available
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Indo Canadian Transport Pvt. Ltd.,A/C Sleeper (2+1),22:00,08h 15m,06:15,4.6,INR 3850,40 Seats available
+Delhi Airport to Ludhiana,https://www.redbus.in/bus-tickets/delhi-airport-to-ludhiana,Zingbus Plus,Scania Multi-Axle AC Semi Sleeper (2+2),20:00,09h 45m,05:45,4.3,996,18 Seats available
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67098,Volvo AC Seater (2+2),18:10,09h 55m,04:05,4.0,INR 1169,30 Seats available
+Jalandhar to Delhi Airport,https://www.redbus.in/bus-tickets/jalandhar-to-delhi-airport,PEPSU (Punjab) - 67128,Volvo AC Seater (2+2),19:10,09h 40m,04:50,4.7,INR 1169,34 Seats available

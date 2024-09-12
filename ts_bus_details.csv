@@ -1,0 +1,76 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:55,06h 50m,05:45,4.5,INR 458,30 Seats available
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,IntrCity SmartBus,Scania AC Multi Axle Sleeper (2+1),23:59,06h 31m,06:30,4.6,INR 592,17 Seats available
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),00:20,06h 10m,06:30,4.6,450,30 Seats available
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,AdIntrCity SmartBus,A/C Seater / Sleeper (2+1),00:15,06h 10m,06:25,4.1,INR 424,30 Seats available
+Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,FRESHBUS,Electric A/C Seater (2+2),23:10,06h 25m,05:35,4.5,450,31 Seats available
+Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),23:40,05h 20m,20:00,4.1,INR 389,30 Seats available
+Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,BSR Tours And Travels,NON A/C Seater (2+2),23:40,06h 20m,19:30,3.9,INR 320,29 Seats available
+Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Bharathi Tours & Travels,Non A/C Seater / Sleeper (2+1),23:40,04h 20m,19:30,3.2,INR 389,33 Seats available
+Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,Sri Venkateswara Travels,Non A/C Seater / Sleeper (2+1),23:45,06h 15m,20:00,2.2,INR 389,34 Seats available
+Khammam to Hyderabad,https://www.redbus.in/bus-tickets/khammam-to-hyderabad,RRR Travels,A/C Seater / Sleeper (2+1),23:50,05h 40m,19:50,3.6,INR 389,29 Seats available
+Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Siri Tours and Travels,A/C Seater / Sleeper (2+1),18:30,06h 00m,00:30,4.2,INR 555,31 Seats available
+Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri Krishna Travels,Non A/C Seater / Sleeper (2+1),19:30,04h 00m,23:30,3.8,INR 650,31 Seats available
+Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,DMR Travels,A/C Sleeper (2+1),20:50,05h 40m,02:30,3.5,INR 799,24 Seats available
+Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Gupta Travels Galaxy,A/C Seater / Sleeper (2+2),21:00,06h 15m,03:15,3.8,INR 700,30 Seats available
+Hyderabad to Khammam,https://www.redbus.in/bus-tickets/hyderabad-to-khammam,Sri KVR Travels,Non A/C Seater / Sleeper (2+1),21:15,05h 45m,03:00,4.9,INR 410,20 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 9635,Super Luxury (Non AC Seater 2+2 Push Back),14:55,07h 45m,22:40,3.5,INR 442,28 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1282,Rajdhani (AC Semi Sleeper 2+2),15:00,05h 00m,20:00,3.9,INR 524,20 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1964,Deluxe (Non AC Seater 2+2),15:00,07h 15m,22:15,3.8,INR 390,35 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 9616,Super Luxury (Non AC Seater 2+2 Push Back),15:20,06h 00m,21:20,2.9,INR 442,29 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1266,Super Luxury (Non AC Seater 2+2 Push Back),15:45,07h 15m,23:00,4.3,INR 442,28 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 4322,Super Luxury (Non AC Seater 2+2 Push Back),19:45,12h 15m,08:00,4.3,INR 442,27 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1254,Super Luxury (Non AC Seater 2+2 Push Back),20:10,12h 20m,08:30,4.3,INR 442,31 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1280,Super Luxury (Non AC Seater 2+2 Push Back),20:45,11h 15m,08:00,3.9,INR 442,31 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1250,Super Luxury (Non AC Seater 2+2 Push Back),21:45,10h 45m,08:30,4.3,INR 442,19 Seats available
+Hyderabad to Srisailam,https://www.redbus.in/bus-tickets/hyderabad-to-srisailam,TSRTC - 1286,Super Luxury (Non AC Seater 2+2 Push Back),22:00,10h 30m,08:30,4.1,INR 442,17 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7067,Super Luxury (Non AC Seater 2+2 Push Back),15:05,03h 00m,18:05,3.7,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7304,Super Luxury (Non AC Seater 2+2 Push Back),15:15,03h 00m,18:15,3.5,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7339,Super Luxury (Non AC Seater 2+2 Push Back),15:30,03h 05m,18:35,3.0,INR 283,30 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7071,Super Luxury (Non AC Seater 2+2 Push Back),15:40,03h 00m,18:40,3.8,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 9506,RAJDHANI (A.C. Semi Sleeper),15:45,03h 05m,18:50,4.0,INR 343,29 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 9550,Super Luxury (Non AC Seater 2+2 Push Back),16:00,02h 30m,18:30,4.3,INR 283,29 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7448,RAJDHANI (A.C. Semi Sleeper),16:00,03h 00m,19:00,3.3,INR 343,30 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7444,Super Luxury (Non AC Seater 2+2 Push Back),16:20,03h 00m,19:20,4.0,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 9443,Super Luxury (Non AC Seater 2+2 Push Back),16:30,03h 20m,19:50,3.8,INR 283,28 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7881,Super Luxury (Non AC Seater 2+2 Push Back),16:35,02h 55m,19:30,2.4,INR 283,3 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7465,RAJDHANI (A.C. Semi Sleeper),17:00,03h 05m,20:05,4.5,INR 343,30 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7395,Super Luxury (Non AC Seater 2+2 Push Back),17:20,03h 00m,20:20,4.2,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7808,LAHARI A/C SLEEPER CUM SEATER,17:30,02h 55m,20:25,3.0,INR 343,29 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7019,Super Luxury (Non AC Seater 2+2 Push Back),17:50,03h 00m,20:50,2.7,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7326,Super Luxury (Non AC Seater 2+2 Push Back),17:55,02h 25m,20:20,2.0,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7418,Super Luxury (Non AC Seater 2+2 Push Back),18:00,03h 05m,21:05,1.7,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7810,LAHARI A/C SLEEPER CUM SEATER,18:00,02h 55m,20:55,3.7,INR 343,33 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7029,Super Luxury (Non AC Seater 2+2 Push Back),18:05,03h 00m,21:05,3.9,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7290,LAHARI A/C SLEEPER CUM SEATER,19:00,02h 40m,21:40,3.1,INR 343,33 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7336,Super Luxury (Non AC Seater 2+2 Push Back),19:15,03h 00m,22:15,3.1,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7382,RAJDHANI (A.C. Semi Sleeper),20:00,02h 50m,22:50,3.2,INR 343,27 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7120,Super Luxury (Non AC Seater 2+2 Push Back),20:00,03h 00m,23:00,3.5,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7302,Super Luxury (Non AC Seater 2+2 Push Back),20:40,03h 55m,00:35,3.8,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7345,Super Luxury (Non AC Seater 2+2 Push Back),21:05,03h 05m,00:10,4.7,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7396,Super Luxury (Non AC Seater 2+2 Push Back),21:30,03h 00m,00:30,3.0,INR 283,31 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7527,Super Luxury (Non AC Seater 2+2 Push Back),22:30,03h 15m,01:45,3.8,INR 283,21 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,TSRTC - 7384,RAJDHANI (A.C. Semi Sleeper),23:15,03h 30m,02:45,4.5,INR 343,23 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,Orange Tours And Travels,Scania AC Multi Axle Sleeper (2+1),18:15,03h 25m,21:40,3.3,INR 400,12 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,Morning Star Travels,Volvo Multi Axle B9R A/C Sleeper (2+1),18:00,03h 55m,21:55,2.6,INR 590,28 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,Sri Tulasi Tours and Travels,A/C Sleeper (2+1),16:30,06h 00m,22:30,3.4,INR 1949,24 Seats available
+Karimnagar to Hyderabad,https://www.redbus.in/bus-tickets/karimnagar-to-hyderabad,IRA Travels,A/C Sleeper (2+1),18:30,03h 15m,21:45,3.9,INR 800,17 Seats available
+Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,DNR Express,AC Sleeper (2+1),21:30,02h 29m,23:59,2.8,809,13 Seats available
+Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,Bhumi travels,AC Seater (2+2),22:00,05h 00m,03:00,2.8,INR 2000,36 Seats available
+Hyderabad to Karimnagar,https://www.redbus.in/bus-tickets/hyderabad-to-karimnagar,Shree Saipooja Travels,A/C Seater/Sleeper (2+1),23:10,03h 20m,02:30,2.7,INR 3000,42 Seats available
+Hyderabad to Mancherial,https://www.redbus.in/bus-tickets/hyderabad-to-mancherial,DNR Express,AC Sleeper (2+1),21:30,04h 30m,02:00,2.4,809,13 Seats available
+Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,New Royal Travels (Raipur),A/C Seater / Sleeper (2+1),15:15,04h 45m,20:00,3.5,764,13 Seats available
+Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,GDR Tours and Travels,Bharat Benz A/C Seater (2+2),17:30,04h 00m,21:30,3.5,INR 429,26 Seats available
+Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,New Royal Travels (Raipur),A/C Sleeper (2+1),17:30,04h 15m,21:45,3.5,944,20 Seats available
+Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,Sahara Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,03h 45m,21:45,3.7,INR 500,27 Seats available
+Hyderabad to Nirmal,https://www.redbus.in/bus-tickets/hyderabad-to-nirmal,Orange Tours And Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),18:00,04h 00m,22:00,3.1,INR 600,15 Seats available
+Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Orange Tours And Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),18:00,05h 15m,23:15,3.5,INR 600,15 Seats available
+Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,MDK TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,3.5,INR 399,21 Seats available
+Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Sahara Tours and Travels,Bharat Benz A/C Seater (2+2),18:00,05h 15m,23:15,3.5,INR 500,26 Seats available
+Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,Savera Tours and Travels,NON A/C Sleeper (2+1),22:15,07h 15m,05:30,3.6,INR 599,10 Seats available
+Hyderabad to Adilabad,https://www.redbus.in/bus-tickets/hyderabad-to-adilabad,GDR Tours and Travels,Bharat Benz A/C Seater (2+2),17:30,05h 15m,22:45,3.2,INR 429,26 Seats available
+Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),21:40,08h 35m,06:15,4.5,INR 533,14 Seats available
+Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,V Kaveri Travels,Scania AC Multi Axle Sleeper (2+1),21:30,08h 15m,05:45,4.1,INR 1000,22 Seats available
+Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Kamakshi Tours And Travels,Non A/C Seater / Sleeper (2+1),21:30,08h 30m,06:00,4.1,INR 500,17 Seats available
+Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Chandu Travels,A/C Sleeper (2+1),22:15,07h 30m,05:45,4.0,684,16 Seats available
+Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Sri Krishna Travels,A/C Sleeper (2+1),22:30,07h 00m,05:30,4.0,INR 800,18 Seats available

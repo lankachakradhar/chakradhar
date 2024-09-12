@@ -1,0 +1,60 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Amrutyog,A/C Sleeper (2+1),22:00,10h 00m,08:00,4.4,INR 999,12 Seats available
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Atmaram Gobus,VE A/C Sleeper (2+1),21:00,10h 30m,07:30,4.6,INR 1299,4 Seats available
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Travels,Bharat Benz A/C Sleeper (2+1),21:00,12h 00m,09:00,4.3,INR 999,6 Seats available
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,AdIntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:30,10h 45m,09:15,4.2,INR 1252,5 Seats available
+Pune to Goa,https://www.redbus.in/bus-tickets/pune-to-goa,Ashray Grand,Volvo Multi-Axle A/C Sleeper (2+1),23:05,10h 25m,09:30,4.3,INR 1170,15 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Kadamba Transport Corporation Limited (KTCL) - 89820,A/C Sleeper (2+1),19:00,12h 00m,07:00,3.3,INR 1000,4 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Atmaram Gobus,VE A/C Sleeper (2+1),21:32,09h 30m,07:02,4.7,INR 999,4 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Travels,Bharat Benz A/C Sleeper (2+1),22:30,11h 30m,10:00,4.5,INR 899,16 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Ashray Travels,Non A/C Seater / Sleeper (2+1),20:00,10h 30m,06:30,4.5,INR 950,10 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,AC Sleeper (2+1),18:30,10h 55m,05:25,4.4,INR 2298,3 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:30,10h 00m,06:30,4.3,INR 848,9 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Prasanna - Purple Bus,Volvo A/C Sleeper (2+1),18:00,12h 15m,06:15,4.1,738,14 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),22:00,10h 55m,08:55,4.3,INR 780,12 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),21:30,10h 00m,07:30,4.2,INR 954,7 Seats available
+Goa to Pune,https://www.redbus.in/bus-tickets/goa-to-pune,Prasanna - Purple Bus,VE A/C Sleeper (2+1),17:00,12h 00m,05:00,4.1,828,17 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Kadamba Transport Corporation Limited (KTCL) - 97386,Volvo AC Seater Pushback 2+2,17:00,13h 00m,06:00,3.7,INR 1000,15 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,VE A/C Sleeper (2+1),20:00,18h 00m,14:00,4.4,821,19 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Zingbus Plus,Bharat Benz A/C Sleeper (2+1),18:30,15h 30m,10:00,4.3,686,17 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),16:00,16h 20m,08:20,4.2,INR 814,10 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (37),Bharat Benz A/C Sleeper (2+1),14:10,16h 20m,06:30,4.2,INR 1110,6 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,IntrCity SmartBus,AC Sleeper (2+1),20:55,13h 50m,10:45,4.1,INR 1001,6 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Dolphin Travel House (38),Bharat Benz A/C Sleeper (2+1),15:00,17h 00m,08:00,4.1,INR 811,20 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Jolly Tours and Travels,VE A/C Sleeper (2+1),18:35,12h 30m,07:05,4.0,INR 1800,3 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),17:30,17h 15m,10:45,3.9,INR 749,19 Seats available
+Mumbai to Goa,https://www.redbus.in/bus-tickets/mumbai-to-goa,Mascot Travels(M.Dev),A/C Sleeper (2+1),19:00,17h 00m,12:00,4.2,INR 799,12 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Intercity travels,Bharat Benz A/C Sleeper (2+1),21:00,13h 15m,10:15,4.4,INR 2599,1 Seat available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sunrise Tours and Travels,A/C Sleeper (2+1),21:30,13h 15m,10:45,4.4,INR 2499,5 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Streamline tours and travels,A/C Sleeper (2+1),21:00,13h 00m,10:00,4.1,INR 2120,22 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,AdIntrCity SmartBus,AC Sleeper (2+1),21:30,13h 50m,11:20,3.4,INR 1400,15 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,IntrCity SmartBus,AC Sleeper (2+1),20:30,14h 10m,10:40,4.1,INR 2175,15 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Streamline tours and travels,A/C Sleeper (2+1),22:00,12h 55m,10:55,3.9,INR 2260,16 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Shanta Travels,NON A/C Sleeper (2+1),17:45,14h 30m,08:15,3.7,INR 1510,13 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Butterfly Holidays,VE A/C Sleeper (2+1),21:20,12h 40m,10:00,3.2,INR 3999,32 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),20:30,13h 30m,10:00,3.1,INR 1500,4 Seats available
+Bangalore to Goa,https://www.redbus.in/bus-tickets/bangalore-to-goa,Sea Bird Tourist,NON A/C Sleeper (2+1),18:00,13h 00m,07:00,0,INR 1200,11 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Kadamba Transport Corporation Limited (KTCL) - 5633,Volvo AC Seater 2+2,18:30,14h 00m,08:30,4.1,INR 800,26 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Intercity travels,Bharat Benz A/C Sleeper (2+1),18:00,13h 15m,07:15,4.6,INR 1099,17 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,AC Sleeper (2+1),17:00,13h 05m,06:05,4.6,INR 927,6 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sunrise Tours and Travels,A/C Sleeper (2+1),18:30,12h 40m,07:10,4.4,INR 999,13 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,IntrCity SmartBus,AC Sleeper (2+1),19:00,13h 35m,08:35,4.2,INR 799,12 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Streamline tours and travels,A/C Sleeper (2+1),18:00,12h 30m,06:30,4.1,INR 999,20 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Butterfly Holidays,VE A/C Sleeper (2+1),17:55,13h 00m,06:55,3.9,INR 3999,32 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Streamline tours and travels,A/C Sleeper (2+1),19:00,12h 30m,07:30,4.1,INR 999,25 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Shanta Travels,NON A/C Sleeper (2+1),18:15,13h 00m,07:15,3.5,INR 860,18 Seats available
+Goa to Bangalore,https://www.redbus.in/bus-tickets/goa-to-bangalore,Sea Bird Tourist,A/C Sleeper (2+1),20:30,13h 00m,09:30,0,INR 900,20 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),21:05,13h 10m,10:15,4.5,2079,11 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Zingbus Plus,VE A/C Sleeper (2+1),19:40,15h 45m,11:25,4.4,1873,13 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),19:30,14h 10m,09:40,4.4,INR 2104,1 Seat available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,Atmaram Travels(M.Dev),A/C Sleeper (2+1),21:02,13h 25m,10:27,4.4,INR 1999,3 Seats available
+Goa to Mumbai,https://www.redbus.in/bus-tickets/goa-to-mumbai,IntrCity SmartBus,AC Sleeper (2+1),18:30,14h 30m,09:00,4.1,INR 2298,3 Seats available
+Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,21:15,12h 45m,10:00,3.5,INR 735,14 Seats available
+Pandharpur to Goa,https://www.redbus.in/bus-tickets/pandharpur-to-goa,SR Tours & Travels,A/C Sleeper (2+1),19:45,09h 45m,05:30,4.0,1350,1 Seat available
+Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,Kadamba Transport Corporation Limited (KTCL) - 60996,Non AC Seater 2+2,19:00,12h 00m,07:00,3.5,INR 735,4 Seats available
+Goa to Pandharpur,https://www.redbus.in/bus-tickets/goa-to-pandharpur,SR Tours & Travels,A/C Sleeper (2+1),19:00,10h 20m,05:20,2.1,1170,20 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Kadamba Transport Corporation Limited (KTCL) - 61005,Non AC Seater 2+2,20:00,14h 00m,10:00,3.4,INR 850,14 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),23:15,08h 45m,08:00,3.0,INR 1550,2 Seats available
+Solapur to Goa,https://www.redbus.in/bus-tickets/solapur-to-goa,SR Tours & Travels,A/C Sleeper (2+1),18:00,11h 30m,05:30,3.0,1350,1 Seat available
+Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,01h 45m,17:15,3.9,INR 200,36 Seats available
+Calangute (goa) to Goa Airport,https://www.redbus.in/bus-tickets/calangute-goa-to-goa-airport,Kadamba Transport Corporation Limited (KTCL) - 99719,AC Seater (2+2),18:30,01h 30m,20:00,3.7,INR 200,39 Seats available
