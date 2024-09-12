@@ -1,5 +1,6 @@
 #Redbus Data Scraping and Filtering with Streamlit Application
 
+
 Introduction
 The aim is to provide a robust solution for collecting, analyzing, and visualizing bus travel data from Redbus, utilizing Selenium for web scraping and Streamlit for interactive data filtering. This document will focus on the approach to data scraping, storage, and the development of the Streamlit application, with particular attention to the database schema involving the All1 table.
 
