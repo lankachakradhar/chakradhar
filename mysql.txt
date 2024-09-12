@@ -1,1 +1,20 @@
+create bus; #creating database
+use bus;#using database
+#creating tables fo bus
+CREATE TABLE ct_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE hr_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE jksrtc_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE ktcl_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE nbs_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE pepsu_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE sbstc_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE ts_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE wb_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+CREATE TABLE wbs_bus (Route_Name VARCHAR(255), Route_Link VARCHAR(255),busname VARCHAR(255),bustype VARCHAR(255),Departing_Time VARCHAR(255),Duration VARCHAR(255),Reaching_Time VARCHAR(255),Star_Rating VARCHAR(255),Price VARCHAR(255),Seats_Available VARCHAR(255));
+#Rest of the tables were created in the python files.
 
+#Granting Privileges of the to the use
+GRANT ALL PRIVILEGES ON bus.* TO 'chakradhar'@'localhost';
+FLUSH PRIVILEGES;
+
+These are the mysql command used in the working of application.
