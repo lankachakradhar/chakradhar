@@ -133,7 +133,4 @@ Conclusion
 
 The approach outlined above provides a comprehensive framework for scraping, storing, and analyzing bus travel data from Redbus. By utilizing Selenium for data extraction, storing data in a structured SQL table (All1), and developing an interactive Streamlit application, this project aims to offer valuable insights and improved operational efficiency in the transportation industry.
 
-streamlit images link:
-https://github.com/lankachakradhar/Project/blob/main/Screenshot%202024-09-12%20192918.pngraw=true
-https://github.com/lankachakradhar/Project/blob/main/Screenshot%202024-09-12%20192856.png?raw=true
-https://github.com/lankachakradhar/Project/blob/main/Screenshot%202024-09-12%20192834.png?raw=true
+streamlit app screen shots are added in the repository.
